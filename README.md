@@ -11,8 +11,7 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 ![Screenshot_20231025_105625_com restaurant](https://github.com/mezianysaid/Restaurant-Mobile-App-React-Native/assets/79142324/22f56cfe-c853-4978-b3b2-5778d62ff3e7)
 ![Screenshot_20231025_105616_com restaurant](https://github.com/mezianysaid/Restaurant-Mobile-App-React-Native/assets/79142324/ba90f508-d823-4fee-a9b7-9166ad117a0d)
 ![Screenshot_20231025_105603_com restaurant](https://github.com/mezianysaid/Restaurant-Mobile-App-React-Native/assets/79142324/e3dda943-e103-4045-801d-a3bf2bd9864c)
-![Screenshot_20231025_105555_com restaurant](https://github.com/mezianysaid/Restaurant-Mobile-App-React-Native/assets/79142324/2a29d21f-51f3-4f54-a484-4619cb4ad321)
-![Screenshot_20231025_105546_com restaurant](https://github.com/mezianysaid/Restaurant-Mobile-App-React-Native/assets/79142324/fae23452-46c8-4c5e-bdea-96ebfd64c0d4)
+![Screenshot_20231025_105555_com restaurant](https://github.com/mezianysaid/Restaurant-Mobile-App-React-Native/assets/79142324/2a29d21f-51f3-4f54-a484-4619cb4ad321)![Screenshot_20231025_105546_com restaurant](https://github.com/mezianysaid/Restaurant-Mobile-App-React-Native/assets/79142324/fae23452-46c8-4c5e-bdea-96ebfd64c0d4)
 
 
 # Getting Started
