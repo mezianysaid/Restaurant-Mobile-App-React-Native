@@ -3,6 +3,18 @@
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
+![Screenshot_20231025_105532_com restaurant](https://github.com/mezianysaid/Restaurant-Mobile-App-React-Native/assets/79142324/2fc7d479-a8f4-4f7f-ba15-7d3f3b58f6e0)
+![Screenshot_20231025_105709_com restaurant](https://github.com/mezianysaid/Restaurant-Mobile-App-React-Native/assets/79142324/88bc78cb-61bd-4a70-b6f2-395b29d82d60)
+![Screenshot_20231025_105657_com restaurant](https://github.com/mezianysaid/Restaurant-Mobile-App-React-Native/assets/79142324/b7d467e7-06e6-4e73-bc48-c33fd65ea9d4)
+![Screenshot_20231025_105646_com restaurant](https://github.com/mezianysaid/Restaurant-Mobile-App-React-Native/assets/79142324/fe552c5f-0584-493e-bef9-4352742f0208)
+![Screenshot_20231025_105634_com restaurant](https://github.com/mezianysaid/Restaurant-Mobile-App-React-Native/assets/79142324/7fdabe3a-dc81-47cf-be42-b56cf0bd380a)
+![Screenshot_20231025_105625_com restaurant](https://github.com/mezianysaid/Restaurant-Mobile-App-React-Native/assets/79142324/22f56cfe-c853-4978-b3b2-5778d62ff3e7)
+![Screenshot_20231025_105616_com restaurant](https://github.com/mezianysaid/Restaurant-Mobile-App-React-Native/assets/79142324/ba90f508-d823-4fee-a9b7-9166ad117a0d)
+![Screenshot_20231025_105603_com restaurant](https://github.com/mezianysaid/Restaurant-Mobile-App-React-Native/assets/79142324/e3dda943-e103-4045-801d-a3bf2bd9864c)
+![Screenshot_20231025_105555_com restaurant](https://github.com/mezianysaid/Restaurant-Mobile-App-React-Native/assets/79142324/2a29d21f-51f3-4f54-a484-4619cb4ad321)
+![Screenshot_20231025_105546_com restaurant](https://github.com/mezianysaid/Restaurant-Mobile-App-React-Native/assets/79142324/fae23452-46c8-4c5e-bdea-96ebfd64c0d4)
+
+
 # Getting Started
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
