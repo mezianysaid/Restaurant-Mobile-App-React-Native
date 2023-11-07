@@ -1,4 +1,4 @@
-# Restaurant Mobile app react natine
+# Restaurant Mobile app react Natine
  Restaurant mobile application using React native et nodejs , expressjs, mongodb
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
